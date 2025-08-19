@@ -2,13 +2,19 @@ Hola soy Manuel, encantado de conocerte!👋
 
 Soy Analista de Datos con formación en Contaduría Pública y experiencia en análisis, limpieza y visualización de datos utilizando Python, SQL y herramientas de BI. Especializado en transformar datos en insights accionables para optimizar procesos y apoyar la toma de decisiones estratégicas.
 
+- 🌱 Actualmentes estoy por finalizar un bootcamp en Triple Ten como analista de datos, con toda la intencion de entrar en este nuevo mundo de posibilidades en este nuevo campo.
+- Me encanta descubrir nuevas formas de automatizar mi trabajo
+- 📫 Quieres contactar conmigo
+- <a href="https://www.linkedin.com/in/manuel-garcia-1490ba37b/" target="_blank">
+<span>Manuel García Pedraza</span>
+</a>
 <!--
 **ManuelGP1273/manuelgp1273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 Actualmente I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
