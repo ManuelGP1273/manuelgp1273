@@ -5,7 +5,7 @@ Soy Analista de Datos con formación en Contaduría Pública y experiencia en an
 - 🌱 Actualmentes estoy por finalizar un bootcamp en Triple Ten como analista de datos, con toda la intencion de entrar en este nuevo mundo de posibilidades en este nuevo campo.
 - Me encanta descubrir nuevas formas de automatizar mi trabajo
 - 📫 Quieres contactar conmigo
-- <a href="https://www.linkedin.com/in/manuel-garcia-1490ba37b/" target="_blank">
+<a href="https://www.linkedin.com/in/manuel-garcia-1490ba37b/" target="_blank">
 <span>Manuel García Pedraza</span>
 </a>
 <!--
