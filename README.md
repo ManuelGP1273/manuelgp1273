@@ -1,6 +1,6 @@
-## Hi there 👋
+Hola soy Manuel, encantado de conocerte!👋
 
-Analista de Datos con formación en Contaduría Pública y experiencia en análisis, limpieza y visualización de datos utilizando Python, SQL y herramientas de BI. Especializado en transformar datos en insights accionables para optimizar procesos y apoyar la toma de decisiones estratégicas.
+Soy Analista de Datos con formación en Contaduría Pública y experiencia en análisis, limpieza y visualización de datos utilizando Python, SQL y herramientas de BI. Especializado en transformar datos en insights accionables para optimizar procesos y apoyar la toma de decisiones estratégicas.
 
 <!--
 **ManuelGP1273/manuelgp1273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
