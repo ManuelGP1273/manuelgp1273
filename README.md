@@ -2,7 +2,7 @@ Hola soy Manuel, encantado de conocerte!👋
 
 Soy Analista de Datos con formación en Contaduría Pública y experiencia en análisis, limpieza y visualización de datos utilizando Python | Pandas | SciPy | Jupyter Notebook | CLI | Matplotlib | Seaborn | Plotly | Git | Github | SQL |Tableau | Dash | Machine Learning. Especializado en transformar datos en decisiones para optimizar procesos y apoyar la toma de decisiones estratégicas.
 
-- 🌱 Actualmentes estoy por finalizar un bootcamp en Triple Ten como analista de datos, con toda la intencion de entrar en este nuevo mundo de posibilidades en este nuevo campo.
+- 🌱 En octubre del 2025 finalicé un bootcamp con Triple Ten como analista de datos, con toda la intencion de entrar en este nuevo mundo de posibilidades en un nuevo campo profesional.
 - Me encanta descubrir nuevas formas de automatizar mi trabajo
 - 📫 Quieres contactar conmigo
 <a href="https://www.linkedin.com/in/manuel-garcia-1490ba37b/" target="_blank">
