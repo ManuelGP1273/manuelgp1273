@@ -1,6 +1,6 @@
 Hola soy Manuel, encantado de conocerte!👋
 
-Soy Analista de Datos con formación en Contaduría Pública y experiencia en análisis, limpieza y visualización de datos utilizando Python, SQL y herramientas de BI. Especializado en transformar datos en insights accionables para optimizar procesos y apoyar la toma de decisiones estratégicas.
+Soy Analista de Datos con formación en Contaduría Pública y experiencia en análisis, limpieza y visualización de datos utilizando Python | Pandas | SciPy | Jupyter Notebook | CLI | Matplotlib | Seaborn | Plotly | Git | Github | SQL |Tableau | Dash | Machine Learning. Especializado en transformar datos en decisiones para optimizar procesos y apoyar la toma de decisiones estratégicas.
 
 - 🌱 Actualmentes estoy por finalizar un bootcamp en Triple Ten como analista de datos, con toda la intencion de entrar en este nuevo mundo de posibilidades en este nuevo campo.
 - Me encanta descubrir nuevas formas de automatizar mi trabajo
