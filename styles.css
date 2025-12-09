@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f5f7fa;
+    color: #333;
+}
+
+/* Encabezado */
+header {
+    text-align: center;
+    padding: 70px 20px;
+    background: #1f4e79;
+    color: white;
+}
+
+header h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+/* Navegación */
+nav {
+    display: flex;
+    justify-content: center;
+    background: #2c3e50;
+    flex-wrap: wrap;
+}
+
+nav a {
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    background: #3f5873;
+}
+
+/* Secciones */
+section {
+    padding: 50px 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #1f4e79;
+}
+
+/* Skills */
+.skills-list {
+    list-style: none;
+    padding: 0;
+    line-height: 1.8;
+    font-size: 18px;
+}
+
+/* Tarjetas */
+.card {
+    background: white;
+    padding: 25px;
+    margin: 20px 0;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #1f4e79;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #e4e4e4;
+    margin-top: 40px;
+}
