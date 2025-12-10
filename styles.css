@@ -85,3 +85,9 @@ footer {
     background: #e4e4e4;
     margin-top: 40px;
 }
+
+.card-img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
